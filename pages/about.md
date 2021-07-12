@@ -5,7 +5,7 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
-  order: 1
+  order: 2
 ---
 
 Though mere words, this quote brings resounding meaning and direction to the Sigma community and its leadership. It is both a motto guiding us into the future, and a reminder of the obstacles we have surpassed. Having begun in infancy as all things do - SIGMA was a newly formed group of players struggling at the lowest levels of content within a single Mobile game. This motto is truly an embodiment of the ideals by which we have bred success and progression into our community.
@@ -38,16 +38,3 @@ SIGMA Alliance looks forward to continued growth and expansion beyond what we ha
 ## Experience it yourself
 We invite you to join our pack and become a part of SIGMA’s inexorable rise towards the powerhouse we are destined to become!
 
-### A HUB for all games 
-
-[Sigma Alliance HUB](https://discord.gg/bewhcZa) 
-
-#### SWGoH
-
-[Sigma Alliance](https://discord.gg/V33Kfaj) 
-[Sigma Nation](https://discord.gg/TxGQfymySF) 
-
-#### SWGoH
-
-[Sigma Alliance](https://discord.gg/V33Kfaj) 
-[Sigma Nation](https://discord.gg/TxGQfymySF) 

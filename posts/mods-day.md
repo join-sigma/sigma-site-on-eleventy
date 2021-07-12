@@ -1,11 +1,11 @@
 ---
-title: This is the fourth example post
+title: Don't skip a mods day
 date: 2020-02-03
 author: John Doe
-summary: Why contemplating our mortality can be a powerful catalyst for change
+summary: How to stay sane while farming mods.
 tags:
-  - environment
-  - politics
+  - swgoh
+  - mods
 ---
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
