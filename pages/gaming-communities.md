@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 1
 ---
 
-### A HUB for all games 
+### Sigma HUB 
 
 [Sigma Alliance HUB](https://discord.gg/bewhcZa) 
 
