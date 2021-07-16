@@ -1,11 +1,12 @@
 ---
-title: The fifth and hopefully final example post
+title: KAM mission essentials
 date: 2020-10-15T12:23:39.598Z
 author: Jane Doe
 summary: Why contemplating our mortality can be a powerful catalyst for change
 tags:
-  - environment
-  - sport
+  - swgoh
+  - KAM
+  - 'LS Geo'
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
