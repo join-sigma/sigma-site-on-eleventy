@@ -1,0 +1,62 @@
+{
+  "home": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "SWGOH",
+      "url": "/swgoh/about"
+    },
+    {
+      "text": "MSF",
+      "url": "/msf/about"
+    },
+    {
+      "text": "WOW",
+      "url": "/wow/about"
+    }
+  ],
+  "msf": [
+    {
+      "text": "About",
+      "url": "/msf/about"
+    },
+    {
+      "text": "Sigma",
+      "url": "/msf/sigma"
+    },
+    {
+      "text": "Nation-X",
+      "url": "/msf/nationx"
+    },
+    {
+      "text": "Community",
+      "url": "/msf/community"
+    }
+  ],
+  "swgoh": [
+    {
+      "text": "About",
+      "url": "/swgoh/about"
+    },
+    {
+      "text": "Sigma",
+      "url": "/swgoh/sigma"
+    },
+    {
+      "text": "Next",
+      "url": "/swgoh/next"
+    },
+    {
+      "text": "Nation",
+      "url": "/swgoh/nation"
+    }
+  ],
+  "wow": [
+    {
+      "text": "About",
+      "url": "/wow/about"
+    }
+  ]
+}
