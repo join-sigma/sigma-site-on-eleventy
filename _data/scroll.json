@@ -1,0 +1,42 @@
+{
+  "home": {
+    "header": "/assets/img/gaming.jpg",
+    "logo": "/assets/img/template.png",
+    "title": "The Sigma Alliance",
+    "subtitle": "Join us on Discord or scroll down to learn more",
+    "button": {
+      "title": "Our Discord",
+      "url": "https://discord.gg/bewhcZa"
+    }
+  },
+  "swgoh": {
+    "header": "/assets/img/battlefront.jpg",
+    "logo": "/assets/img/template.png",
+    "title": "In the deep of winter the lone wolf shall perish, it is the pack which survives.",
+    "subtitle": "Join us on Discord or scroll down to learn more",
+    "button": {
+      "title": "Our Discord",
+      "url": "https://discord.gg/V33Kfaj"
+    }
+  },
+  "msf": {
+    "header": "/assets/img/msf-bg.jpg",
+    "logo": "/assets/img/marvelstrikeforce_lob_log_01.png",
+    "title": "Marvel Strike Force",
+    "subtitle": "Join us on Discord or scroll down to learn more",
+    "button": {
+      "title": "Our Discord",
+      "url": "https://discord.gg/bewhcZa"
+    }
+  },
+  "wow": {
+    "header": "/assets/img/wow-bg.jpg",
+    "logo": "/assets/img/sigmawow-logo.png",
+    "title": "In the deep of winter the lone wolf shall perish, it is the pack which survives.",
+    "subtitle": "Join us on Discord or scroll down to learn more",
+    "button": {
+      "title": "Our Discord",
+      "url": "https://discord.gg/Uc8cHHp"
+    }
+  }
+}
