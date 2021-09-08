@@ -1,18 +1,11 @@
 ---
-
-layout: layouts/page.njk
-title: SWGOH
-permalink: /swgoh/index.html
-section: SWGOH
-date: 2018-01-01
-header-title: About
-header-link: https://swgoh.gg/g/50755/sigma-alliance-b/
-header-link-text: Visit Sigma Alliance Beta on swgoh.gg
-eleventyNavigation:
-  key: SWGOH
-  parent: Gaming communities
-  order: 3
-metaDescription:  "In the deep of winter the lone wolf shall perish, it is the pack that survives."
+title: SWGOH - A Story of beginnings
+date: 2021-09-08
+author: Spicewood Foo
+summary: "In the deep of winter the lone wolf shall perish, it is the pack that survives."
+tags:
+  - swgoh
+  - about
 ---
 
 ## About

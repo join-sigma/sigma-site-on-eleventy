@@ -1,15 +1,11 @@
 ---
-layout: layouts/page.njk
-title: Sigma Nation
-permalink: /swgoh/nation.html
-section: SWGOH
-date: 2018-01-01
-parent: Gaming communities
-eleventyNavigation:
-  key: Sigma Nation
-  parent: SWGOH
-#   order: 3
-metaDescription: "Though greatness be our asppiration, we shall gladly settle on conquest until our destiny is revealed."
+title: About Sigma Nation
+date: 2021-09-08
+author: Spicewood Foo
+summary: Though greatness be our aspiration, we shall gladly settle on conquest until our destiny is revealed.
+tags:
+  - swgoh
+  - about
 ---
 
 ## Our community for Standalone guilds

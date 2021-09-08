@@ -1,15 +1,10 @@
 ---
-layout: layouts/page.njk
-title: WOW | Guilds
-permalink: /wow/guilds.html
-section: WOW
-date: 2018-01-01
-parent: Gaming communities
-eleventyNavigation:
-  key: WOW Guilds
-  parent: WOW
-#   order: 3
-metaDescription: "Though greatness be our asppiration, we shall gladly settle on conquest until our destiny is revealed."
+title: List of Sigma WOW Guilds
+date: 2021-09-08
+author: Spicewood Foo
+summary: Though greatness be our aspiration, we shall gladly settle on conquest until our destiny is revealed.
+tags:
+  - wow
 ---
 
 

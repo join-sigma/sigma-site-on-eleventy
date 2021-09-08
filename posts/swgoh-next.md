@@ -1,14 +1,11 @@
 ---
-layout: layouts/page.njk
-title: Sigma Next
-permalink: /swgoh/next.html
-section: SWGOH
-date: 2018-01-01
-parent: Gaming communities
-eleventyNavigation:
-  key: Sigma Next
-  parent: SWGOH
-#   order: 3
+title: About Sigma Next
+date: 2021-09-08
+author: Spicewood Foo
+summary: Though greatness be our aspiration, we shall gladly settle on conquest until our destiny is revealed.
+tags:
+  - swgoh
+  - about
 ---
 
 ## Our NEXT generation

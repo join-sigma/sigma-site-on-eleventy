@@ -1,17 +1,12 @@
 ---
-layout: layouts/page.njk
-title: Nation-X Community
-permalink: /msf/nationx.html
-section: MSF
-date: 2018-01-01
-guild-photo: /assets/img/msf-nx.jpg
-icon: http://i.imgur.com/Na3FG8S.jpg
-parent: Gaming communities
-eleventyNavigation:
-  key: Nation-X
-  parent: MSF
-#   order: 3
-metaDescription:  "A Cluster of 30+ Alliances. Come join our Family, Drop in if you're looking for a new Alliance or new home for your Alliance."
+title: Nation-X Family
+metaDescription: A Cluster of 30+ Alliances. Come join our Family, Drop in if you're looking for a new Alliance or new home for your Alliance.
+# date: 2019-01-01T00:00:00.000Z
+date: 2021-09-09
+author: FieryThunder
+summary: We are a group of INDEPENDENT alliances sharing a single server for mutual recruitment benefits. We have some cluster rules which includes member behaviour, coordination between NX Alliances, which are explained below.
+tags:
+  - msf
 ---
 ## About
 
@@ -66,16 +61,15 @@ Nation-X will not tolerate disrespect and poor treatment of any Member of our Fa
 
 ###### We have limited openings for a few Alliances that can contribute to the overall health of our Community.
 <li style="list-style: none; position: relative; margin-top: 0; padding-top: 0; margin-bottom: 3rem;">
-       <a href="https://discord.gg/Ph6JqRa" style="background: url(/assets/img/msf-nx.jpg) no-repeat bottom center; 
+  <a href="https://discord.gg/Ph6JqRa" style="background: url(/assets/img/msf-nx.jpg) no-repeat bottom center; 
   background-size: cover;
   display: block;
   width: 100%;
   height: 26rem;">
-            <h4><p style="position: absolute; bottom: 0;  margin-bottom: 0; padding: 1rem; background-color: rgba(0,0,0,.5); width: 100%; color: white;">Come join our Family, Drop in if you're looking for a new Alliance or new home for your Alliance.</p></h4>
-        </a>
-      </li>
-      
-      
+  <h4><p style="position: absolute; bottom: 0;  margin-bottom: 0; padding: 1rem; background-color: rgba(0,0,0,.5); width: 100%; color: white;">Come join our Family, Drop in if you're looking for a new Alliance or new home for your Alliance.</p></h4>
+  </a>
+</li>
+
 {% include components/joinus.njk, type: "msf-nationx" %}
 
 #### Nation-X - Alliance List Image:

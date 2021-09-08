@@ -1,14 +1,11 @@
 ---
-layout: layouts/page.njk
-title: Sigma WoW Classic
-permalink: /wow/index.html
-section: WOW
-date: 2018-01-01
-eleventyNavigation:
-  key: WOW
-  parent: Gaming communities
-#   order: 3
-metaDescription:  "In the deep of winter the lone wolf shall perish, it is the pack that survives."
+title: About Sigma WoW Classic
+date: 2021-09-08
+author: Spicewood Foo
+summary: "In the deep of winter the lone wolf shall perish, it is the pack that survives."
+tags:
+  - wow
+  - about
 ---
 
 ## Sigma WoW Classic

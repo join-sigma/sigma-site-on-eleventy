@@ -1,16 +1,12 @@
 ---
-layout: layouts/page.njk
 title: Sigma MSF Cluster
-permalink: /msf/sigma.html
-section: MSF
-date: 2018-01-01
-guild-photo: /assets/img/msf-share-en.jpg
-parent: Gaming communities
-eleventyNavigation:
-  key: Sigma MSF
-  parent: MSF
-#   order: 3
-metaDescription:  "Greetings from the Sigma MSF Cluster. Join greatness today. We invite you to join and see for yourself if sigma is the right place for you."
+metaDescription: Greetings from the Sigma MSF Cluster. Join greatness today. We invite you to join and see for yourself if sigma is the right place for you.
+# date: 2019-01-01T00:00:00.000Z
+date: 2021-09-09
+author: FieryThunder
+summary: The purpose is to create an environment to encourage any type of movement desired by the individual member. For example, a player whose focus is aggressive growth would not be a good fit for a low growth alliance. Rather than that player choosing to leave, they are encouraged to apply and specify the power or specs of an alliance and can move up.
+tags:
+  - msf
 ---
 
 ## The Sigma philosophy:
@@ -38,6 +34,6 @@ The goal is to retain all players who want to put in the effort to make their ex
    * Multiple alliances ranked top 100 in War League Trophies
    * Multiple alliances in Gold 2 or Better league!
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://discordapp.com/invite/yUapU2C" data-iframely-url="//cdn.iframe.ly/ptR4jvD"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{% include components/joinus.njk, type: "msf-sigma" %}
             
 ![](https://cdn.discordapp.com/attachments/637176641872723981/656413933590020097/Screen_Shot_2019-12-16_at_12.00.05_PM.png) 
