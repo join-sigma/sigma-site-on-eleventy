@@ -20,15 +20,12 @@ eleventyNavigation:
 
 ### MSF
 
-[Sigma MSF RED](https://discord.gg/rYEpPFabnX)
-[Nation-X Family](https://discord.gg/Ph6JqRa)
-
+[Sigma MSF](https://discord.gg/q7v3JADsXH)
 
 ### WOW
 
 [Sigma Wow classic](https://discord.gg/Uc8cHHp) 
 
+### MFR & SNAP
 
-### MFR
-
-[Sigma MFR](https://discord.gg/q2A3umc9dY)
+[Sigma MFR & SNAP](https://discord.gg/FQJDNSCdR6)
