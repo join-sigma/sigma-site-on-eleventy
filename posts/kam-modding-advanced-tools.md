@@ -1,5 +1,5 @@
 ---
-title: Creating KAM mods loadouts - bascis
+title: Creating KAM mods loadouts - advanced tools
 summary: Creating KAM mods loadouts without moving mods
 date: 2020-01-01
 author: John Appleseed
