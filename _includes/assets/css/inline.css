@@ -1,10 +1,39 @@
-:root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+body {
+	--primary: #444;
+	--secondary: #ddd;
+	--tertiary: rgb(130, 177, 204);
+	--link: blue;
+	--background: #white;
+}
+	body.dark-theme {
+		--primary: #d1d1d1;
+		--secondary: #333;
+		--tertiary: green;
+		--link: blue;
+		--background: black;
 }
 
-*, *:before, *:after {
+@media (prefers-color-scheme: dark) {
+	/* defaults to dark theme */
+	body {
+		--primary: white;
+		--secondary: #333;
+		--tertiary: green;
+		--link: blue;
+		--background: black;
+	}
+	body.light-theme {
+		--primary: #444;
+		--secondary: #ddd;
+		--tertiary: green;
+		--link: blue;
+		--background: white;
+	}
+}
+  
+
+  
+* {
   box-sizing: border-box;
 }
 
@@ -19,7 +48,8 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
+	background: var(--background);
+	color: var(--primary);
 }
 
 main {
@@ -32,19 +62,20 @@ code {
 	line-height: 1.5;
 }
 
-a[href],
-a[href]:visited {
-	color: var(--primary);
+a[href](:hover) {
+	color: var(--tertiary);
 }
 
 a[href]:not(:hover) {
-	text-decoration: none;
+	color: var(--primary);
+	text-decoration: dotted;
 }
 
 img {
 	max-width: 100%;
 	height: auto;
 }
+
 
 header,
 main,
@@ -87,10 +118,16 @@ header > em {
 	font-style: normal;
 }
 
+header a {
+	color: var(--primary);
+	text-decoration: none;
+}
+
 /* Header Nav */
 header nav ul {
 	padding: 0;
 	list-style: none;
+	color: var(--primary);
 }
 
 header nav ul :first-child {
@@ -105,6 +142,7 @@ header nav li {
 header nav li a {
 	padding: .25em .5em;
 	border-radius: .25em;
+	color: var(--primary);
 }
 
 header nav li a[href]:not(:hover) {
@@ -112,14 +150,15 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	background-color: var(--secondary);
+	color: var(--primary);
 }
+
 
 /* Posts List */
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--secondary);
 }
 
@@ -168,29 +207,20 @@ form label {
 }
 
 input,
-textarea,
-button {
-  width: 100%;
-  padding: 1em;
-  margin-bottom: 1em;
-	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
-}
-
-input,
 textarea {
-	border: 1px solid black;
+	width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+	font-size: 1rem;
 }
 
 button {
-	border: 1px solid var(--primary);
-	background-color: var(--primary);
+	background: var(--primary);
 	color: var(--secondary);
-	cursor: pointer;
-}
-
-@media screen and (min-width:768px) {
-	:root {
-		font-size: 1.1rem;
-	}
+	border-radius: 0.5rem;
+	padding: 0.5rem 0.75rem;
+	padding: 0.5rem;
+  margin-bottom: 1rem;
+	font-size: 1rem;
+	border: 0;
 }
